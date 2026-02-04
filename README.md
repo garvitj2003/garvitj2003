@@ -70,15 +70,3 @@ My focus is on **writing maintainable code** and delivering features that go bey
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=garvitj2003&show_icons=true&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=garvitj2003&theme=transparent&hide_border=false)
-
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=garvitj2003&theme=transparent&hide_border=false&layout=compact)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=garvitj2003&icon=0&color=0)](https://visitcount.itsvg.in)
