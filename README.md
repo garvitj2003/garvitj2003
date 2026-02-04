@@ -8,7 +8,7 @@ My focus is on **writing maintainable code** and delivering features that go bey
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack-
 
 ## Languages  
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
